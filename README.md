@@ -5,7 +5,6 @@
   <br>
   <span>An Ip Logger, which sends everything received to a discord webhook .</span>
   <br>
-  <a target="_blank"" title="PHP Script."><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png"></a>
 
 
 ## Installation
