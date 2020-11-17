@@ -11,6 +11,6 @@
 
 ```console
 Drag the PHP To your Host (You Can do it in 000webhost), 
-Modify The Webhook Link and Ready to Go.
-
+Put your webhook link in:
+$url = "Your Discord Webhook Link Here";
 ```
