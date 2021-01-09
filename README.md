@@ -10,7 +10,13 @@
 ## Installation
 
 ```console
-Drag the PHP To your Host (You Can do it in 000webhost), 
-Put your webhook link in:
-$url = "Your Discord Webhook Link Here";
+$ Drag the PHP To your Host (You Can do it in 000webhost), 
+$ Put your webhook link in:
+$ url = "Your Discord Webhook Link Here";
 ```
+
+## Legal Advice
+THIS REPOSITORY AND EVERY SCRIPT INCLUDED IN IT IS FOR EDUCATIONAL 
+AND TESTING PURPOSES ONLY. THE OWNER OR ANY CONTRIBUTOR IS NOT RESPONSIBLE
+FOR YOUR ACTIONS.
+
